@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 /*        VARIABLES        */
 :root {
@@ -432,19 +432,6 @@ footer img {
     margin: 0 auto;
     border-radius: 10px;
   }
-=======
-
-/*        VARIABLES        */
-:root {
-  --naranja: #FC7300;
-  --verde: #1F8A70;
-  --azul-oscuro: #00425A;
-  --gris-oscuro: #181823;
-  --hueso: #EFF5F5;
-  --titulos: 'Belanosima', cursive;
-  --texto: 'Poppins', sans-serif;
-  --bp-sm: 768px; /* Breakpoint para tabletas */
-  --bp-md: 1024px; /* Breakpoint para desktops */
 }
 
 *,
@@ -856,5 +843,5 @@ body {
     margin: 0 auto;
     border-radius: 10px;
   }
->>>>>>> aee8d3e5b76a7b55be6af0e03d55ee88ef7b7231
+
 }
